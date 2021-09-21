@@ -2,7 +2,7 @@ body{
     background-image: url('/images/dolan.jpg');
     background-size:cover;
     text-align: center;
-    color:rgb(170, 167, 12);
+    color:rgb(21, 80, 34);
     font-size: x-large;
     background-color: black;
 }
@@ -40,7 +40,7 @@ p{
 }
 
 #btn-translate{
-    background: rgb(170, 167, 12);
+    background: rgb(21, 80, 34);
     border: none;
     color: #fff;
     padding: 0.7rem 1rem;
@@ -55,7 +55,7 @@ p{
 #footer {
     padding-bottom: 6.5rem;
     background-color: whitesmoke;
-    color: rgb(170, 167, 12);
+    color: rgb(21, 80, 34);
     font-size: 1.3rem;
     text-align: center;
     
